@@ -20,7 +20,7 @@ If you plan to use OpenEMS for your own projects, please consider joining the [O
 
 ![alt text](./doc/modules/ROOT/assets/images/areal-energy-management.png "Areal Energy Management")
 
-## OpenEMS IoT stack
+## OpenEMS IoT stack Test
 
 The OpenEMS 'Internet of Things' stack contains three main components:
 
