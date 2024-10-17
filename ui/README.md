@@ -1,3 +1,4 @@
+#Testing sparse checkout
 # OpenEMS UI
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli).
